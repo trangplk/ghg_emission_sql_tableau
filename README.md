@@ -20,7 +20,7 @@ An example of data processing was performed in MySQL:
 - Joined emission and temperature datasets  
 - Built derived metrics (e.g., GHG per capita, GHG per GDP)
 
-- SQL techniques include:** Common Table Expressions (CTEs), Window Functions, Calculated Columns, Filtering, Aggregations, Joins, Type Casting, and Conditional Logics
+** SQL techniques include: Common Table Expressions (CTEs), Window Functions, Calculated Columns, Filtering, Aggregations, Joins, Type Casting, and Conditional Logics
 
 **Data cleaning steps:**  
 - Cast fields into numeric formats  
